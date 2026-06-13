@@ -57,6 +57,3 @@ Se os registros forem exibidos, a importação foi realizada com sucesso.
 
 ---
 
-## 6. Resolva os exercícios
-
-Com a base carregada, execute as consultas SQL propostas no roteiro de exercícios para explorar os dados históricos do Oscar.
